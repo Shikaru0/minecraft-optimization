@@ -82,6 +82,8 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | A Fabric mod based on Starlight that improves the performance of light updates in Minecraft. | Both |
 | [ThreadTweak](https://modrinth.com/mod/threadtweak) | Improve and tweak Minecraft thread scheduling. Fork of Smooth Boot for ≥1.20 | Both |
 | [Very Many Players](https://modrinth.com/mod/vmp-fabric) | A Fabric mod designed to improve server performance at high playercounts. | Both |
+| [Voxy Server Side](https://modrinth.com/mod/voxy-server-side) | Render distant Voxy LODs on servers | Both |
+| [Voxy WorldGen](https://modrinth.com/mod/voxy-worldgen) | This is a passive chunk generator mod, with server-side support for Voxy! | Both |
 | [XXL Packets](https://modrinth.com/mod/xxl-packets) | XXL Packets is a fork of XL Packets which raises the packet size limit from 2MB to the Java Integer limit (2.147483647 GB). | Both |
 | [Alternate Current](https://modrinth.com/mod/alternate-current) | An efficient and non-locational redstone dust implementation | Server |
 | [C2ME OpenCL Acceleration Module](https://modrinth.com/mod/c2me-ocl) | C2ME addon that provides hardware accelerated world generation through OpenCL | Server |
@@ -107,6 +109,7 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [Particle Core](https://modrinth.com/mod/particle-core) | Particle optimizations: Culling, rendering optimizations, configurable particle-type-specific spawn reduction, and potion particle disabling. Compatible with Sodium, improves performance over Sodium alone. | Client |
 | [Sodium](https://modrinth.com/mod/sodium) | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter. | Client |
 | [Stfu](https://modrinth.com/mod/shuttfup) | A mod that fixes some annoyances and speeds up your game! | Client |
+| [voxy](https://modrinth.com/mod/voxy) | A Level of Detail rendering mod | Client |
 
 ## Sources
 
