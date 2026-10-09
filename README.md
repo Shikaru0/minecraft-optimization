@@ -87,6 +87,7 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [Clumps](https://modrinth.com/mod/clumps) | Clumps XP orbs together to reduce lag | Server |
 | [RailOptimization](https://modrinth.com/mod/railoptimization) | A simple mod that makes powered/activator rails turn on/off up to 12x faster. | Server |
 | [Despawn Tweaks](https://modrinth.com/mod/despawn-tweaks) | Optimization mod that fixes cases where mobs will be prevented from despawning. | Server |
+| [Fast Noise](https://modrinth.com/mod/zfastnoise) | Vanilla Worldgen optimization mod | Server |
 | [Ksyxis](https://modrinth.com/mod/ksyxis) | Speed up your world loading by removing unneeded chunks. | Server |
 | [ServerCore](https://modrinth.com/mod/servercore) | A mod that aims to optimize the minecraft server. | Server |
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Optimization mod that focuses on things other than rendering | Client |
@@ -102,6 +103,7 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [Nvidium](https://modrinth.com/mod/nvidium) | Fast nvidia only rendering engine for sodium | Client |
 | [Particle Core](https://modrinth.com/mod/particle-core) | Particle optimizations: Culling, rendering optimizations, configurable particle-type-specific spawn reduction, and potion particle disabling. Compatible with Sodium, improves performance over Sodium alone. | Client |
 | [Sodium](https://modrinth.com/mod/sodium) | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter. | Client |
+| [Stfu](https://modrinth.com/mod/shuttfup) | A mod that fixes some annoyances and speeds up your game! | Client |
 
 ## Sources
 
