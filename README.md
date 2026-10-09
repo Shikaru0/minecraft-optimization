@@ -66,7 +66,7 @@ Because the pre-touched heap plus the JVM's native overhead (roughly 1 GiB, outs
 
 ## Mods
 
-Ordered by side. **Both** runs on the client or the server; **Server** and **Client** are single-side.
+Ordered by side. **Both** means it works single-sided on either server or client side; **Server** and **Client** are single-side.
 
 | Mod | Purpose | Side |
 | --- | --- | --- |
