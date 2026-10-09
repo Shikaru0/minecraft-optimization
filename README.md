@@ -78,6 +78,7 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [ModernFix](https://modrinth.com/mod/modernfix) | All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! | Both |
 | [Packet Fixer](https://modrinth.com/mod/packet-fixer) | A simple mod to fix various problems with packets, nbt and timeouts. | Both |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | A Fabric mod based on Starlight that improves the performance of light updates in Minecraft. | Both |
+| [ThreadTweak](https://modrinth.com/mod/threadtweak) | Improve and tweak Minecraft thread scheduling. Fork of Smooth Boot for ≥1.20 | Both |
 | [Alternate Current](https://modrinth.com/mod/alternate-current) | An efficient and non-locational redstone dust implementation | Server |
 | [C2ME OpenCL Acceleration Module](https://modrinth.com/mod/c2me-ocl) | C2ME addon that provides hardware accelerated world generation through OpenCL | Server |
 | [Clumps](https://modrinth.com/mod/clumps) | Clumps XP orbs together to reduce lag | Server |
@@ -88,6 +89,7 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Reduce block entity FPS lag with almost no compromises, and improve their visuals | Client |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Using async path-tracing to hide Block-/Entities that are not visible | Client |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Speed up immediate mode rendering in Minecraft | Client |
+| [Ixeris](https://modrinth.com/mod/ixeris) | Buffered raw input and threaded event polling | Client |
 | [More Culling](https://modrinth.com/mod/moreculling) | A mod that changes how multiple types of culling are handled in order to improve performance | Client |
 | [Particle Core](https://modrinth.com/mod/particle-core) | Particle optimizations: Culling, rendering optimizations, configurable particle-type-specific spawn reduction, and potion particle disabling. Compatible with Sodium, improves performance over Sodium alone. | Client |
 | [Sodium](https://modrinth.com/mod/sodium) | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter. | Client |
