@@ -79,6 +79,7 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [Packet Fixer](https://modrinth.com/mod/packet-fixer) | A simple mod to fix various problems with packets, nbt and timeouts. | Both |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | A Fabric mod based on Starlight that improves the performance of light updates in Minecraft. | Both |
 | [ThreadTweak](https://modrinth.com/mod/threadtweak) | Improve and tweak Minecraft thread scheduling. Fork of Smooth Boot for ≥1.20 | Both |
+| [Very Many Players](https://modrinth.com/mod/vmp-fabric) | A Fabric mod designed to improve server performance at high playercounts. | Both |
 | [Alternate Current](https://modrinth.com/mod/alternate-current) | An efficient and non-locational redstone dust implementation | Server |
 | [C2ME OpenCL Acceleration Module](https://modrinth.com/mod/c2me-ocl) | C2ME addon that provides hardware accelerated world generation through OpenCL | Server |
 | [Clumps](https://modrinth.com/mod/clumps) | Clumps XP orbs together to reduce lag | Server |
