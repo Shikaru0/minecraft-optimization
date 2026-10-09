@@ -83,8 +83,10 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [Very Many Players](https://modrinth.com/mod/vmp-fabric) | A Fabric mod designed to improve server performance at high playercounts. | Both |
 | [Alternate Current](https://modrinth.com/mod/alternate-current) | An efficient and non-locational redstone dust implementation | Server |
 | [C2ME OpenCL Acceleration Module](https://modrinth.com/mod/c2me-ocl) | C2ME addon that provides hardware accelerated world generation through OpenCL | Server |
+| [Cerulean](https://modrinth.com/mod/cerulean-advancements) | Advancements optimization mod, updated fork of Icterine with added features | Server |
 | [Clumps](https://modrinth.com/mod/clumps) | Clumps XP orbs together to reduce lag | Server |
 | [RailOptimization](https://modrinth.com/mod/railoptimization) | A simple mod that makes powered/activator rails turn on/off up to 12x faster. | Server |
+| [Despawn Tweaks](https://modrinth.com/mod/despawn-tweaks) | Optimization mod that fixes cases where mobs will be prevented from despawning. | Server |
 | [Ksyxis](https://modrinth.com/mod/ksyxis) | Speed up your world loading by removing unneeded chunks. | Server |
 | [ServerCore](https://modrinth.com/mod/servercore) | A mod that aims to optimize the minecraft server. | Server |
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Optimization mod that focuses on things other than rendering | Client |
