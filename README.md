@@ -90,6 +90,7 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Optimization mod that focuses on things other than rendering | Client |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Reduce block entity FPS lag with almost no compromises, and improve their visuals | Client |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Using async path-tracing to hide Block-/Entities that are not visible | Client |
+| [FastAnim](https://modrinth.com/mod/fastanim) | Speeds up entity animation calculations! | Client |
 | [FeyTweaks](https://modrinth.com/mod/feytweaks) | Mod for optimizing signs and beacons. | Client |
 | [Flerovium](https://modrinth.com/mod/flerovium) | Greatly improve your fps with virtually no side-effects on graphics quality | Client |
 | [GPUBooster](https://modrinth.com/mod/gputape) | Provides DSA & fastest math formulas to game render system for best perfomance! Compatible with Sodium/Embeddium, Iris and shaders. | Client |
