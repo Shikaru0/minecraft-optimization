@@ -64,6 +64,16 @@ Oracle's tuning strategy: "Set the maximum heap size to a value that's close to 
 
 Because the pre-touched heap plus the JVM's native overhead (roughly 1 GiB, outside `{memory}`) is resident from the first second, "close" still means leaving enough for the OS and that overhead. Tune by watching the used heap (`jcmd <pid> GC.heap_info`, or the GC logs).
 
+## Mods
+
+Ordered by side. **Both** runs on the client or the server; **Server** and **Client** are single-side.
+
+| Mod | Purpose | Side |
+| --- | --- | --- |
+| [Lithium](https://modrinth.com/mod/lithium) | No-compromises game logic optimization mod, useful for both single-player games and multi-player servers. | Both |
+| [ServerCore](https://modrinth.com/mod/servercore) | A mod that aims to optimize the minecraft server. | Server |
+| [Sodium](https://modrinth.com/mod/sodium) | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter. | Client |
+
 ## Sources
 
 - https://docs.oracle.com/en/java/javase/26/gctuning/other-considerations.html
@@ -76,3 +86,4 @@ Because the pre-touched heap plus the JVM's native overhead (roughly 1 GiB, outs
 - https://openjdk.org/jeps/439
 - https://openjdk.org/jeps/474
 - https://openjdk.org/jeps/490
+- https://modrinth.com
