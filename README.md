@@ -82,7 +82,9 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [Ksyxis](https://modrinth.com/mod/ksyxis) | Speed up your world loading by removing unneeded chunks. | Server |
 | [ServerCore](https://modrinth.com/mod/servercore) | A mod that aims to optimize the minecraft server. | Server |
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Optimization mod that focuses on things other than rendering | Client |
+| [Entity Culling](https://modrinth.com/mod/entityculling) | Using async path-tracing to hide Block-/Entities that are not visible | Client |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Speed up immediate mode rendering in Minecraft | Client |
+| [More Culling](https://modrinth.com/mod/moreculling) | A mod that changes how multiple types of culling are handled in order to improve performance | Client |
 | [Sodium](https://modrinth.com/mod/sodium) | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter. | Client |
 
 ## Sources
