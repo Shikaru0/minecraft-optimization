@@ -77,6 +77,7 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | A mod that fixes random memory leaks for both the client and server | Both |
 | [ModernFix](https://modrinth.com/mod/modernfix) | All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! | Both |
 | [Packet Fixer](https://modrinth.com/mod/packet-fixer) | A simple mod to fix various problems with packets, nbt and timeouts. | Both |
+| [Redirected](https://modrinth.com/mod/redirected) | Memory optimization mod that prevents duplication of Enum values. | Both |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | A Fabric mod based on Starlight that improves the performance of light updates in Minecraft. | Both |
 | [ThreadTweak](https://modrinth.com/mod/threadtweak) | Improve and tweak Minecraft thread scheduling. Fork of Smooth Boot for ≥1.20 | Both |
 | [Very Many Players](https://modrinth.com/mod/vmp-fabric) | A Fabric mod designed to improve server performance at high playercounts. | Both |
@@ -89,6 +90,8 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Optimization mod that focuses on things other than rendering | Client |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Reduce block entity FPS lag with almost no compromises, and improve their visuals | Client |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Using async path-tracing to hide Block-/Entities that are not visible | Client |
+| [FeyTweaks](https://modrinth.com/mod/feytweaks) | Mod for optimizing signs and beacons. | Client |
+| [Flerovium](https://modrinth.com/mod/flerovium) | Greatly improve your fps with virtually no side-effects on graphics quality | Client |
 | [GPUBooster](https://modrinth.com/mod/gputape) | Provides DSA & fastest math formulas to game render system for best perfomance! Compatible with Sodium/Embeddium, Iris and shaders. | Client |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Speed up immediate mode rendering in Minecraft | Client |
 | [Ixeris](https://modrinth.com/mod/ixeris) | Buffered raw input and threaded event polling | Client |
