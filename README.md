@@ -72,6 +72,7 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | --- | --- | --- |
 | [C2ME](https://modrinth.com/mod/c2me-fabric) | A Fabric mod designed to improve the chunk performance of Minecraft. | Both |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Memory usage optimizations | Both |
+| [FoamFix](https://modrinth.com/mod/foamfix) | FoamFix is a mod designed to improve modded Minecraft memory usage using simple, targeted optimizations. | Both |
 | [Krypton](https://modrinth.com/mod/krypton) | A mod to optimize the Minecraft networking stack | Both |
 | [Lithium](https://modrinth.com/mod/lithium) | No-compromises game logic optimization mod, useful for both single-player games and multi-player servers. | Both |
 | [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | A mod that fixes random memory leaks for both the client and server | Both |
@@ -89,6 +90,7 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [RailOptimization](https://modrinth.com/mod/railoptimization) | A simple mod that makes powered/activator rails turn on/off up to 12x faster. | Server |
 | [Despawn Tweaks](https://modrinth.com/mod/despawn-tweaks) | Optimization mod that fixes cases where mobs will be prevented from despawning. | Server |
 | [Fast Noise](https://modrinth.com/mod/zfastnoise) | Vanilla Worldgen optimization mod | Server |
+| [Immersive Optimization](https://modrinth.com/mod/immersive-optimization) | A lightweight entity-tick-scheduler for doubling your TPS. | Server |
 | [Ksyxis](https://modrinth.com/mod/ksyxis) | Speed up your world loading by removing unneeded chunks. | Server |
 | [ServerCore](https://modrinth.com/mod/servercore) | A mod that aims to optimize the minecraft server. | Server |
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Optimization mod that focuses on things other than rendering | Client |
