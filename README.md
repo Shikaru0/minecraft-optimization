@@ -72,6 +72,7 @@ Ordered by side. **Both** runs on the client or the server; **Server** and **Cli
 | --- | --- | --- |
 | [Lithium](https://modrinth.com/mod/lithium) | No-compromises game logic optimization mod, useful for both single-player games and multi-player servers. | Both |
 | [Alternate Current](https://modrinth.com/mod/alternate-current) | An efficient and non-locational redstone dust implementation | Server |
+| [Clumps](https://modrinth.com/mod/clumps) | Clumps XP orbs together to reduce lag | Server |
 | [ServerCore](https://modrinth.com/mod/servercore) | A mod that aims to optimize the minecraft server. | Server |
 | [Sodium](https://modrinth.com/mod/sodium) | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter. | Client |
 
