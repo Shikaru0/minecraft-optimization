@@ -70,10 +70,12 @@ Ordered by side. **Both** means it works single-sided on either server or client
 
 | Mod | Purpose | Side |
 | --- | --- | --- |
+| [C2ME](https://modrinth.com/mod/c2me-fabric) | A Fabric mod designed to improve the chunk performance of Minecraft. | Both |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Memory usage optimizations | Both |
 | [Lithium](https://modrinth.com/mod/lithium) | No-compromises game logic optimization mod, useful for both single-player games and multi-player servers. | Both |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | A Fabric mod based on Starlight that improves the performance of light updates in Minecraft. | Both |
 | [Alternate Current](https://modrinth.com/mod/alternate-current) | An efficient and non-locational redstone dust implementation | Server |
+| [C2ME OpenCL Acceleration Module](https://modrinth.com/mod/c2me-ocl) | C2ME addon that provides hardware accelerated world generation through OpenCL | Server |
 | [Clumps](https://modrinth.com/mod/clumps) | Clumps XP orbs together to reduce lag | Server |
 | [ServerCore](https://modrinth.com/mod/servercore) | A mod that aims to optimize the minecraft server. | Server |
 | [Sodium](https://modrinth.com/mod/sodium) | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter. | Client |
