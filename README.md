@@ -74,6 +74,7 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Memory usage optimizations | Both |
 | [Krypton](https://modrinth.com/mod/krypton) | A mod to optimize the Minecraft networking stack | Both |
 | [Lithium](https://modrinth.com/mod/lithium) | No-compromises game logic optimization mod, useful for both single-player games and multi-player servers. | Both |
+| [ModernFix](https://modrinth.com/mod/modernfix) | All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! | Both |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | A Fabric mod based on Starlight that improves the performance of light updates in Minecraft. | Both |
 | [Alternate Current](https://modrinth.com/mod/alternate-current) | An efficient and non-locational redstone dust implementation | Server |
 | [C2ME OpenCL Acceleration Module](https://modrinth.com/mod/c2me-ocl) | C2ME addon that provides hardware accelerated world generation through OpenCL | Server |
