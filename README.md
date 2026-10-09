@@ -89,6 +89,7 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Using async path-tracing to hide Block-/Entities that are not visible | Client |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Speed up immediate mode rendering in Minecraft | Client |
 | [More Culling](https://modrinth.com/mod/moreculling) | A mod that changes how multiple types of culling are handled in order to improve performance | Client |
+| [Particle Core](https://modrinth.com/mod/particle-core) | Particle optimizations: Culling, rendering optimizations, configurable particle-type-specific spawn reduction, and potion particle disabling. Compatible with Sodium, improves performance over Sodium alone. | Client |
 | [Sodium](https://modrinth.com/mod/sodium) | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter. | Client |
 
 ## Sources
