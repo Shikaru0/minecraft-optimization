@@ -80,6 +80,7 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [Clumps](https://modrinth.com/mod/clumps) | Clumps XP orbs together to reduce lag | Server |
 | [Ksyxis](https://modrinth.com/mod/ksyxis) | Speed up your world loading by removing unneeded chunks. | Server |
 | [ServerCore](https://modrinth.com/mod/servercore) | A mod that aims to optimize the minecraft server. | Server |
+| [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Speed up immediate mode rendering in Minecraft | Client |
 | [Sodium](https://modrinth.com/mod/sodium) | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter. | Client |
 
 ## Sources
