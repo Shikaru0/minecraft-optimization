@@ -88,9 +88,11 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Optimization mod that focuses on things other than rendering | Client |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Reduce block entity FPS lag with almost no compromises, and improve their visuals | Client |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Using async path-tracing to hide Block-/Entities that are not visible | Client |
+| [GPUBooster](https://modrinth.com/mod/gputape) | Provides DSA & fastest math formulas to game render system for best perfomance! Compatible with Sodium/Embeddium, Iris and shaders. | Client |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Speed up immediate mode rendering in Minecraft | Client |
 | [Ixeris](https://modrinth.com/mod/ixeris) | Buffered raw input and threaded event polling | Client |
 | [More Culling](https://modrinth.com/mod/moreculling) | A mod that changes how multiple types of culling are handled in order to improve performance | Client |
+| [Nvidium](https://modrinth.com/mod/nvidium) | Fast nvidia only rendering engine for sodium | Client |
 | [Particle Core](https://modrinth.com/mod/particle-core) | Particle optimizations: Culling, rendering optimizations, configurable particle-type-specific spawn reduction, and potion particle disabling. Compatible with Sodium, improves performance over Sodium alone. | Client |
 | [Sodium](https://modrinth.com/mod/sodium) | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter. | Client |
 
