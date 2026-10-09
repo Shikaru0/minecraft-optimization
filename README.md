@@ -71,6 +71,7 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | Mod | Purpose | Side |
 | --- | --- | --- |
 | [Lithium](https://modrinth.com/mod/lithium) | No-compromises game logic optimization mod, useful for both single-player games and multi-player servers. | Both |
+| [ScalableLux](https://modrinth.com/mod/scalablelux) | A Fabric mod based on Starlight that improves the performance of light updates in Minecraft. | Both |
 | [Alternate Current](https://modrinth.com/mod/alternate-current) | An efficient and non-locational redstone dust implementation | Server |
 | [Clumps](https://modrinth.com/mod/clumps) | Clumps XP orbs together to reduce lag | Server |
 | [ServerCore](https://modrinth.com/mod/servercore) | A mod that aims to optimize the minecraft server. | Server |
