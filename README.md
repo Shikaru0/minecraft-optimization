@@ -111,6 +111,18 @@ Ordered by side. **Both** means it works single-sided on either server or client
 | [Stfu](https://modrinth.com/mod/shuttfup) | A mod that fixes some annoyances and speeds up your game! | Client |
 | [voxy](https://modrinth.com/mod/voxy) | A Level of Detail rendering mod | Client |
 
+## Server
+
+### Software
+
+[Pumpkin](https://github.com/Pumpkin-MC/Pumpkin): Written in Rust; fast, but in active development and not yet feature-complete.
+[Paper](https://papermc.io/software/paper/): High-performance fork of Spigot that fixes gameplay and mechanics inconsistencies; the de facto standard for plugin servers.
+[Folia](https://papermc.io/software/folia/): Fork of Paper that runs the game loop across multiple threads; breaks compatibility with many plugins.
+
+### Paper & Forks Optimization
+
+[YouHaveTrouble/minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization): community optimization guide for Paper servers and their forks (Purpur, Pufferfish, Leaf and others).
+
 ## Sources
 
 - https://docs.oracle.com/en/java/javase/26/gctuning/other-considerations.html
@@ -124,3 +136,7 @@ Ordered by side. **Both** means it works single-sided on either server or client
 - https://openjdk.org/jeps/474
 - https://openjdk.org/jeps/490
 - https://modrinth.com
+- https://github.com/Pumpkin-MC/Pumpkin
+- https://papermc.io/software/paper/
+- https://papermc.io/software/folia/
+- https://github.com/YouHaveTrouble/minecraft-optimization
