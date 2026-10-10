@@ -116,7 +116,9 @@ Ordered by side. **Both** means it works single-sided on either server or client
 ### Software
 
 [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin): Written in Rust; fast, but in active development and not yet feature-complete.
+
 [Paper](https://papermc.io/software/paper/): High-performance fork of Spigot that fixes gameplay and mechanics inconsistencies; the de facto standard for plugin servers.
+
 [Folia](https://papermc.io/software/folia/): Fork of Paper that runs the game loop across multiple threads; breaks compatibility with many plugins.
 
 ### Paper & Forks Optimization
